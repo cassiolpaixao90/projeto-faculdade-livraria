@@ -9,7 +9,7 @@
 	</c:forEach>
 </c:if>
 
-<form action="CadastrarUsuario.action">
+<form action="CadastrarUsuario.action" method="post">
 <table>
 	<tr>
 		<td>Nome:</td>
