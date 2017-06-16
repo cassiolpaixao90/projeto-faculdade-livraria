@@ -5,6 +5,11 @@ import webf.service.ServiceException;
 
 public class ReferencedEntityException extends ServiceException {
 
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
+
 	public ReferencedEntityException() {
 	}
 
